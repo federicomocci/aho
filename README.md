@@ -1,1 +1,1 @@
-# è la cartella dove troverai tutte le cartelle dell'università
+# è la cartella dove troverai tutti i file importanti dell'università
